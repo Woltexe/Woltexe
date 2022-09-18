@@ -1,5 +1,5 @@
 -  Hi, I’m @Woltexe!
--  I’m interested in game dev/architecture 
+-  I’m interested in game dev/programing  
 -  I’m currently learning c#/godot/blender
 - How to reach me:
    Instagram: Woltexe
