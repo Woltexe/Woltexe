@@ -1,8 +1,9 @@
 -  Hi, I’m @Woltexe!
 -  I’m interested in game dev/programing  
--  I’m currently learning c#/godot/blender
+-  I’m currently learning Unity(C#)/Godot(GDScript)
+-  I have experience in c/c++ 
 - How to reach me:
-   Instagram: Woltexe
+   LinkedIn: https://www.linkedin.com/in/paweł-jarmacewicz-6a3269252/
    e-mail: pyrons123@gmail.com
 
 <!---
